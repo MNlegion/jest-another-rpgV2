@@ -18,5 +18,8 @@
   "homepage": "https://github.com/MNlegion/jest-another-rpgV2#readme",
   "devDependencies": {
     "jest": "^29.4.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.5"
   }
 }
